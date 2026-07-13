@@ -1,0 +1,23 @@
+{
+  "flight": {
+    "depart_date": "2026-08-30",
+    "return_date": "2026-09-08",
+    "depart_flight": "MU517",
+    "return_flight": "FM822",
+    "alert_price": 2650
+  },
+  "ihg": [
+    {
+      "hotel": "Crowne Plaza Fukuoka",
+      "checkin": "2026-08-30",
+      "checkout": "2026-09-03",
+      "max_points": 21000
+    },
+    {
+      "hotel": "RIHGA Royal Hotel Osaka",
+      "checkin": "2026-09-03",
+      "checkout": "2026-09-08",
+      "max_points": 21000
+    }
+  ]
+}
